@@ -16,7 +16,7 @@ My name is Fiyaz Hasan but everyone calls me Fizz. I'm a software engineer by pa
 
 ## 🏆 GitHub Trophies
 
-<a href="https://github.com/fiyazbinhasan"><img src="https://github-profile-trophy.vercel.app/?username=fiyazbinhasan" alt="fiyazbinhasan" /></a>
+<a href="https://github.com/fiyazbinhasan"><img src="https://github-profile-trophy.vercel.app/?username=fiyazbinhasan&column=7" alt="fiyazbinhasan" /></a>
 
 <br/>
 
