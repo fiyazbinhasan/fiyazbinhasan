@@ -1,4 +1,4 @@
-# Hey, folks! 👋
+# Hey, folks! 👋 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/fiyazbinhasan)
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/GeekHourEdu?sub_confirmation=1) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/fiyazhasan) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/fiyazbinhasan)
 
@@ -11,10 +11,6 @@ My name is Fiyaz Hasan but everyone calls me Fizz. I'm a software engineer by pa
 - ⚡ Fun fact - **I'm a true Scorpio!** ♏
 
 - &#x270d; I blog at [fiyazhasan.me](https://www.fiyazhasan.me/)
-
-<br/>
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <br/>
 
